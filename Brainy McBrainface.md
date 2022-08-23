@@ -4,7 +4,7 @@ A code example of building a user interface to display [Jerry's Brain](https://w
 - Fork and edit with an [online editor and template](https://codesandbox.io/s/github/OpenGlobalMind/brainy-mcbrainface/)
 - See it on [Github](https://github.com/OpenGlobalMind/brainy-mcbrainface)
 
-Thanks to [Jerry Michalisky](https://www.jerrymichalski.com/), [Marc-Antoine Parent](https://twitter.com/ma_parent), [Peter Kaminski](https://twitter.com/peterkaminski), and funding from [Lionsberg](https://www.lionsberg.org/) 
+Thanks to [Jerry Michalski](https://www.jerrymichalski.com/), [Marc-Antoine Parent](https://twitter.com/ma_parent), [Peter Kaminski](https://twitter.com/peterkaminski), funding from the Rutt Family Foundation, and nonprofit sponsorship from [Lionsberg](https://www.lionsberg.org/) 
 
 ## Tech
 - [React](https://reactjs.org/) with [Create React App](https://github.com/facebook/create-react-app).
