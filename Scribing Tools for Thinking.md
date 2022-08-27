@@ -33,8 +33,8 @@ The following folks will be scribing the Tools for Thinking series:
 - [[Jess Martin]], using old-skool blogging tech. His post is [here](https://jessmart.in/articles/render-recap).
 - [[Darlene Dang]], using [Edvo](https://www.edvo.com/). Her notes will start [here](https://app.edvo.com/topic/Dw11GUNDXryRqjr4DoH7). 
 - [[Flancian]] using [An Agora](https://anagora.org/), an app he developed himself. See [here](https://anagora.org/tools-for-thinking)!
-- [[Eric Rangell]], using Mark Carranza's MX
-- [[Mathew Lowry]], using his platform, [MyHub](MyHub.ai), but not live, since he is in Belgium. His notes will materialize [here](https://myhub.ai/@mathewlowry/?tags=conference+report&types=like&types=do&types=think&timeframe=anytime&quality=all&tags=betaworx).
+- [[Eric Rangell]], using Mark Carranza's MX. His notes are at [[Eric's Render Notes in MX]].
+- [[Mathew Lowry]], using his platform, [MyHub](MyHub.ai), but not live, since he is in Belgium. His notes will materialize [here](https://myhub.ai/@mathewlowry/?tags=conference+report&types=like&types=do&types=think&timeframe=anytime&quality=all&tags=betaworx). He also created a plain Markdown file, [[Mathew's Render Notes]]. 
 - Kevin Marks joined us, embedding the livestream on a web page and livetweeting the entire day. You can find his tweets, etc., [here](https://www.kevinmarks.com/toolsforthinking.html). 
 
 We also have a "shared brain" using [Plexus](https://plexusnotes.com/home), which you can participate in [here](http://plexus.earth/p/render). Plexus is an AI-powered community forum for all conference participants, developed by the Plexus team (founded by Davey Morse). A Shared Brain is a social network without a feed. You open to a blank page, type the thing that's on your mind, and get connected with the most related thoughts from the rest of the knowledge tech community. Again, click [here](http://plexus.earth/p/render) to get started.
