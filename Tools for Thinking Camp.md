@@ -18,3 +18,5 @@ Another is to create a small posse of thinkers who like to work in public view, 
 
 We'll need [[Resources for Render]]. 
 
+And we're starting the [[Tools for Thinking Podcast]]. 
+
