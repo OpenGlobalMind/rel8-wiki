@@ -6,3 +6,4 @@ An easy way to understand and remember them is to read the name of a very popula
 
 We would like to help [[Turbocharge Pattern Languages]]. To that end, we've defined a [[Tiles|Tile]]
 called [[Tile - 1-2-4-All Zoom App|1-2-4-All Zoom App]] that will demonstrate what we mean. After that, we can generalize the process and apply it to many more patterns. 
+

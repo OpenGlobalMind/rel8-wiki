@@ -14,4 +14,9 @@
 ## Benchmarks
 - Open standards bodies like IETF, W3C, 
 - Semi-private initiatives like Danny Hillis's [Knowledge Futures Group](https://www.knowledgefutures.org/) 
-- 
+
+Badge that orgs can show that they play nicely. How to certify? B-Lab, others. 
+5-tool groups 
+Separate the data 
+OGM potential architecture components
+Gather 5 companies at a time, have them negotiate tile descriptions and post bounties. 

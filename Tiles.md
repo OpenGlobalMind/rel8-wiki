@@ -11,13 +11,14 @@ Here is our [[Tiles Wishlist]].
 
 Here's a table of our Tiles, finished and proposed:
 
-| Tile Name                             |  Description   | Author(s)               | Status   | Link           | Projects Served |
-| ------------------------------------- | --- | ----------------------- | -------- | -------------- | --------------- |
-| [[MemeBrane]]                         | API for Jerry's Brain    | [[Marc-Antoine Parent]] | Finished | link goes here | FJB, OGM, Rel8  |
-| [[Brainy McBrainface]]                | Example UI for Memebrane | [[Bentley Davis]]       | Finished | [link](https://mcbrain.netlify.app/)  | FJB, OGM, Rel8 |
-| Multiple improvements to Massive Wiki |     | [[Pete Kaminski]]       | In Progress | [MW Roadmap](https://developer.massive.wiki/massive_wiki_roadmap)           |                 |
-| [[Tile - Rendering Excalidraw]]       |     | ??                      | Proposed |                |                 |
-| Updating JB                           |     | [[Marc-Antoine Parent]] | Proposed |                |                 |
-| [[Spider Diagrams]]                   |     | ??                      | Proposed |                |                 |
-| Importing JB into Zsolt's Brain       |     | [[Zsolt Viczian]]       | Proposed |                |                 |
-| [[Tile - 1-2-4-All Zoom App]]         |     | ??                      | Proposed |                |                 |
+| Tile Name                             | Description              | Author(s)               | Status      | Link                                                              | Projects Served |
+| ------------------------------------- | ------------------------ | ----------------------- | ----------- | ----------------------------------------------------------------- | --------------- |
+| [[MemeBrane]]                         | API for Jerry's Brain    | [[Marc-Antoine Parent]] | Finished    | link goes here                                                    | FJB, OGM, Rel8  |
+| [[Brainy McBrainface]]                | Example UI for Memebrane | [[Bentley Davis]]       | Finished    | [link](https://mcbrain.netlify.app/)                              | FJB, OGM, Rel8  |
+| [[Massive Pitch]] | PowerPoint as a playlist | ?? | Proposed |
+| Multiple improvements to Massive Wiki |                          | [[Pete Kaminski]]       | In Progress | [MW Roadmap](https://developer.massive.wiki/massive_wiki_roadmap) |                 |
+| [[Tile - Rendering Excalidraw]]       |                          | ??                      | Proposed    |                                                                   |                 |
+| Updating JB                           |                          | [[Marc-Antoine Parent]] | Proposed    |                                                                   |                 |
+| [[Spider Diagrams]]                   |                          | ??                      | Proposed    |                                                                   |                 |
+| Importing JB into Zsolt's Brain       |                          | [[Zsolt Viczian]]       | Proposed    |                                                                   |                 |
+| [[Tile - 1-2-4-All Zoom App]]         |                          | ??                      | Proposed    |                                                                   |                 |

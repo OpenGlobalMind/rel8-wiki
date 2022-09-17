@@ -15,6 +15,8 @@ To Turbocharge Pattern Languages, we might:
 - Weave existing Pattern Languages together, as appropriate
 - Make it easier to create and curate Pattern Languages
 - Get the word out about Pattern Languages
+- Start needed Pattern Languages, like maybe:
+	- [[A Pattern Language for Healing the Earth]]
 - Program chatbots to navigate Pattern Languages and make great recommendations from them 
 - "Instrument" them, where appropriate, which means turning text into code that makes applying patterns far easier (see [[Tile - 1-2-4-All Zoom App]])
 	- Lather, rinse, repeat for more wise nuggets that are instrumentable 
