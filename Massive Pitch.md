@@ -1,6 +1,10 @@
 # Massive Pitch
 
-Massive Wiki used as PowerPoint. Please watch [this short, simple video](https://www.youtube.com/watch?v=bWkwOefBPZY) for context. The tl;dr: Imagine that instead of a slide deck that was a single document, a presentation instead was a playlist of pages in a wiki name space. 
+This page is a [[Tiles|Tile]] proposal. 
+
+Massive Wiki used as PowerPoint. Please watch [this short, simple video](https://www.youtube.com/watch?v=bWkwOefBPZY) for context. 
+
+The tl;dr: Imagine that instead of a slide deck that was a single document, a presentation instead was a playlist of pages in a wiki name space. 
 
 This Tile needs code that:
 - Marks a wiki page as the playlist for a presentation
