@@ -27,8 +27,6 @@ In this prototype, if you navigate to a page that has this javascript on it and 
 ### [Web Story Prototype](https://web-story-prototype.netlify.app/)
 in this prototype you can create a list of URLs and put the number of seconds after each one then click play and the code will open up another tab and will display each page after waiting the correct number of seconds. ([code](https://github.com/OpenGlobalMind/webstory))
 
----
-
 ## Proposal #1
 a hosted web page and javascript code that reads a list of web pages from an external file named in the URL. You can navigate the list of pages in several ways similar to powerpoint.
 
