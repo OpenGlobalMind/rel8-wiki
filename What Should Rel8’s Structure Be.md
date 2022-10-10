@@ -1,19 +1,27 @@
 # What Should Rel8’s Structure Be?
 
 ## Goals
-- Nurture [[The Big Fungus]]: a layer of notes, insights, arguments, evidence "above" Wikipedia and the Web
-- Created by collaborating communities using different tools and approaches
-- Connected through protocols and APIs
-- Useful to many disciplines, movements
-	- Demonstrate that usefulness 
-- Stand up prototypes to inspire vendors and participants
-- Marshal and guide stewards of The Big Fungus
+- Nurture a layer of notes, insights, arguments, evidence "above" Wikipedia and the Web
+	- Created by individuals in collaborating communities 
+	- Using *different* tools and approaches
+	- Connected through protocols and APIs
+	- Useful to many disciplines, movements
+- Demonstrate that usefulness 
+	- Stand up prototypes to inspire vendors and participants
+	- Launch challenges that solve problems
+- Open-source the resulting code
+- Crowdsource a [[Mapping Tools for Thinking|map]] of the Tools for Thinking sector 
+- Encourage individuals and software vendors to share what they curate
+- Recruit [[Neighboring Organizations]] to the common cause
+- Name it, build a common vocabulary across user communities
+- Marshal and guide stewards to curate it
+
 ## Forces
-- Getting individuals and software vendors to share what they curate
 - Curating the protocols and APIs that make this work
-## Benchmarks
-- Open standards bodies like IETF, W3C, 
-- Semi-private initiatives like Danny Hillis's [Knowledge Futures Group](https://www.knowledgefutures.org/) 
+
+## Why me?
+
+
 
 Badge that orgs can show that they play nicely. How to certify? B-Lab, others. 
 5-tool groups 
