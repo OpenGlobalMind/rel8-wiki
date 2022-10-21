@@ -24,30 +24,30 @@ https://bra.in/5pKKLB
 
 ## Links mentioned
 
-[Articles About HyperCard](https://bra.in/3v2dxe)
-[Coding Programs for Kids](https://bra.in/7qwkQJ)
-[Commodore VIC-20](https://en.wikipedia.org/wiki/Commodore_VIC-20) (1980, first to sell > 1mm)
-[Consumerization Took Away Our Sense of Agency](https://bra.in/4qZmZB)
-[Design for Emergence](https://bra.in/9jbk6k)
-[Explain WWII](https://www.pinterest.com/pin/452048881343976318/) ([Peanuts](https://www.gocomics.com/peanuts/1975/10/08) on October 08, 1975)
+- [Articles About HyperCard](https://bra.in/3v2dxe)
+- [Coding Programs for Kids](https://bra.in/7qwkQJ)
+- [Commodore VIC-20](https://en.wikipedia.org/wiki/Commodore_VIC-20) (1980, first to sell > 1mm)
+- [Consumerization Took Away Our Sense of Agency](https://bra.in/4qZmZB)
+- [Design for Emergence](https://bra.in/9jbk6k)
+- [Explain WWII](https://www.pinterest.com/pin/452048881343976318/) ([Peanuts](https://www.gocomics.com/peanuts/1975/10/08) on October 08, 1975)
 ![[Peanuts - Explain WWII.gif]]
 
-[Flatland: A Romance of Many Dimensions](http://www.amazon.com/exec/obidos/ASIN/048627263X/jerrymichalskisr) (1884)
-[Harold and the Purple Crayon](https://www.amazon.com/Harold-Purple-Crayon-Books-ebook/dp/B00X3NIVZ2/jerrymichalskisr) (1955)
-[HyperCard Could Have Been the Web](https://bra.in/4pdzVj)
-[Moth Fund](https://www.mothminds.com/)
+- [Flatland: A Romance of Many Dimensions](http://www.amazon.com/exec/obidos/ASIN/048627263X/jerrymichalskisr) (1884)
+- [Harold and the Purple Crayon](https://www.amazon.com/Harold-Purple-Crayon-Books-ebook/dp/B00X3NIVZ2/jerrymichalskisr) (1955)
+- [HyperCard Could Have Been the Web](https://bra.in/4pdzVj)
+- [Moth Fund](https://www.mothminds.com/)
 	[Molly Mielke](https://www.linkedin.com/in/mollymielke/), [Computers and Creativity](https://www.mollymielke.com/cc)
 	- To foster optimal human innovation, digital creative tools need to be interoperable, moldable, efficient, and community-driven.
 	- We Are Totally Blowing the Creative Potential of Computers
-[Myst](http://en.wikipedia.org/wiki/Myst) (1993)
-[PhotoShop](http://en.wikipedia.org/wiki/Adobe_Photoshop)
-[Samuel (Sam) Arbesman](https://www.linkedin.com/in/arbesman/)
-[Specifying Spring '83](https://www.robinsloan.com/lab/specifying-spring-83/)
-[Terrarium](http://en.wikipedia.org/wiki/Terrarium)
-[The Betterverse](https://www.thebetterverse.org/)
-[The Desktop Metaphor Is a Tractor Beam for Startups on the Event Horizon](https://bra.in/8pRbGx)
-[The Long Nose of Innovation](http://www.businessweek.com/innovate/content/jan2008/id2008012_297369.htm?campaign_id=rss_topStories)
-[Tools for Thinking Podcast](https://bra.in/2vGNna) (2022 T4T, TfT)
+- [Myst](http://en.wikipedia.org/wiki/Myst) (1993)
+- [PhotoShop](http://en.wikipedia.org/wiki/Adobe_Photoshop)
+- [Samuel (Sam) Arbesman](https://www.linkedin.com/in/arbesman/)
+- [Specifying Spring '83](https://www.robinsloan.com/lab/specifying-spring-83/)
+- [Terrarium](http://en.wikipedia.org/wiki/Terrarium)
+- [The Betterverse](https://www.thebetterverse.org/)
+- [The Desktop Metaphor Is a Tractor Beam for Startups on the Event Horizon](https://bra.in/8pRbGx)
+- [The Long Nose of Innovation](http://www.businessweek.com/innovate/content/jan2008/id2008012_297369.htm?campaign_id=rss_topStories)
+- [Tools for Thinking Podcast](https://bra.in/2vGNna) (2022 T4T, TfT)
 
 ## Others' notes
 
