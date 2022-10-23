@@ -2,6 +2,14 @@
 
 a [[Tools for Thinking Podcast]] episode
 
+These show notes are in Markdown, on Github, [here](https://github.com/OpenGlobalMind/rel8-wiki/blob/main/Tools%20for%20Thinking%20Podcast.md). Please feel free to suggest edits and additions as a Github pull request, or  [email us](mailto:sociate@gmail.com). If you use Tools for Thinking, better still: send us your show notes and we'll add them. 
+
+## Cover art
+
+Here's the Stable Diffusion-generated cover image for this episode, from the prompt "mental map of information:"
+
+![[e4 image.png]]
+
 ## Guests
 
 - [Molly Mielke](https://www.linkedin.com/in/mollymielke/), founder of [Moth Fund](https://www.mothminds.com/)
@@ -51,4 +59,6 @@ https://bra.in/5pKKLB
 
 ## Others' notes
 
+[John Borthwick](https://www.linkedin.com/in/jborthwick/)'s Roam notes: 
 
+![[JohnB's Notes on Molly and Sam T4T.png]]
