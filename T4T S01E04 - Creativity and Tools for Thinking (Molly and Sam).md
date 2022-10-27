@@ -28,7 +28,7 @@ Here's the Stable Diffusion-generated cover image for this episode, from the pro
 ## Brain screen cap and link
 
 ![[JB - T4T S01E01.jpg]]
-https://bra.in/5pKKLB
+https://bra.in/5pKKLB  <-- follow this link to browse this map
 
 ## Links mentioned
 
