@@ -10,17 +10,10 @@ We'll drop an episode a week, weaving what we learn and who we meet into this wi
 
 ## Episodes
 
+- [[T4T S01E01 - Intro Episode and Render Review (John and Jerry)]]
+- [[T4T S01E02 - From Second Brains to Collective Brains (Sari and Rufus)]]
+- [[T4T S01E03 - Space, Pixels and Cognition (Yiliu and John)]]
 - [[T4T S01E04 - Creativity and Tools for Thinking (Molly and Sam)]]
-- 
-
-For each episode:
-
-## Guests
-## Audio podcast 
-## Video podcast  
-## Participant bios & links
-## Brain screen cap and link
-## Links mentioned
-## Others' notes
-
+- [[T4T S01E05 - Machine Learning for Thinking (Alice and Sam)]]
+- [[T4T S01E07 - Rethinking Data Structures (Paul, Alex and John)]]
 
