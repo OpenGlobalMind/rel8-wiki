@@ -16,4 +16,5 @@ We'll drop an episode a week, weaving what we learn and who we meet into this wi
 - [[T4T S01E04 - Creativity and Tools for Thinking (Molly and Sam)]]
 - [[T4T S01E05 - Machine Learning for Thinking (Alice and Sam)]]
 - [[T4T S01E07 - Rethinking Data Structures (Paul, Alex and John)]]
+- [[T4T S01E08 - Funding Tools for Thinking (Andrew, James and John)]]
 
