@@ -30,6 +30,8 @@ Here's the Stable Diffusion-generated cover image for this episode, from the pro
 ![[JB - T4T S01E01.jpg]]
 https://bra.in/5pKKLB  <-- follow this link to browse this map
 
+Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](https://docdrop.org/video/aQNylMqGNBM/). 
+
 ## Links mentioned
 
 - [Articles About HyperCard](https://bra.in/3v2dxe)

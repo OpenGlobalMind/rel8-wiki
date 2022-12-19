@@ -15,6 +15,11 @@ We'll drop an episode a week, weaving what we learn and who we meet into this wi
 - [[T4T S01E03 - Space, Pixels and Cognition (Yiliu and John)]]
 - [[T4T S01E04 - Creativity and Tools for Thinking (Molly and Sam)]]
 - [[T4T S01E05 - Machine Learning for Thinking (Alice and Sam)]]
+- [[T4T S01E06 - Machine Learning and Public Knowledge Graphs]]
 - [[T4T S01E07 - Rethinking Data Structures (Paul, Alex and John)]]
 - [[T4T S01E08 - Funding Tools for Thinking (Andrew, James and John)]]
+- [[T4T S01E09 - Generative Art(ists) (Danika, Emad, David)]]
+- [[T4T S01E10 - Thinking from the Bottom Up (Gordon, Sönke)]]
+- [[T4T S01E11 - Maps and Creativity (Anne-Laure, Lorenzo)]]
+- 
 
