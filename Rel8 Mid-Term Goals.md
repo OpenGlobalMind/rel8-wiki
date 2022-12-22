@@ -1,4 +1,5 @@
 # Rel8 Mid-Term Goals
+
 What will it take to create a large-scale shared memory that:
 
 - Is crowdsourced like Wikipedia

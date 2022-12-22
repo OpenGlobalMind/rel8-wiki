@@ -1,0 +1,56 @@
+# What Multiplayer Sensemaking Needs Now
+
+- Vision
+	- Keep illustrating the big picture, the [[Highest Aspirations]] as well as the [[Pragmatic Aspirations]]
+	- Bootstrap: Use Tools for Thinking to illustrate this process
+	- - Tell stories. Narrate this journey
+	- Motivate toolsmiths to add storytelling features to all the tools
+	- Podcast: [[Tools for Thinking Podcast|Tools for Thinking]]
+- Convenings
+	- Host virtual events 
+		- [[Open Global Mind]] calls
+		- [[Free Jerry's Brain]] calls
+		- [[Fellowship of the Link]] calls 
+		- Cross-pollination with neighbor communities 
+	- Host real events
+	- Visit the [[Bonfires on the Horizon]], the many communities building our shared memory
+	- Be a neutral convener (technologically, not necessarily politically)
+- Examples
+	- Be the Chuck Yeager of the global brain
+		- Offer a "Starter" (to inoculate the emergent, mycelia's global brain)
+			- [[Jerry's Brain]]: 25 years, > 500,000 nodes, ~ 1mm links
+	- Foster divergent demos (to fight the tractor beams of the desktop metaphor and Microsoft Office)
+	- Model Idea Sex (friendlier than "idea combat" or debate)
+- Location
+	- Virtual: Sense of Place
+		- We know where the Web and Wikipedia are. Where is this shared memory?
+		- [[The Big Fungus]] (hard fun)
+		- [[The Betterverse]] 
+	- Virtual: Orientation
+		- Which way is up?
+		- Where am I?
+		- How do I find my way around the global mind?
+	- Physical: A place where this work is rooted (maybe)
+		- For purpose and commitment
+		- For friction, synchronicity, serendipity
+		- For convenings
+		- We're wired for place and topography. It grounds us. 
+- Projects
+	- Design Challenges 
+		- [FJB Challenges doc](https://docs.google.com/document/d/1sOFLAkSrK5UDksIq6qDa-lREX3qCmTEg4ptKI0eQrnw/edit?usp=sharing)
+	- [[Mapping Tools for Thinking]] (the landscape)
+		- Major categories of tools
+		- Dimensions for comparisons
+		- Major categories of protocols, etc. 
+		- Overlaps of spider diagrams
+		- The landscape [in my Brain](https://bra.in/5qeDMg) 
+	- Technical specs to aim for
+		- Protocols and APIs (link)
+		- Point to existing orgs
+		- Wrangling the communities designing and hosting these
+- Funding flows for leveling up (Tiles)
+- Inspiring Many to Feed (Curate?) the Commons
+	- Developers to write toward the Commons
+	- Users to publish to the Commons
+- Play the role of Bell Labs or Xerox PARC in 21C — but decentralized
+	- Burbling pot of open innovations

@@ -1,4 +1,5 @@
 # Rel8's Mosaic
+
 [[Mosaics]] are project visions. They are composed of Tiles.
 
 See [[Rel8 Use Cases]]. 

@@ -1,4 +1,5 @@
 # Rel8 Long-Term Goals
+
 If we succeed, insights will be more available, sharing will be more commonplace, and we will enjoy beneficial effects on multiple domains of human endeavor. 
 
 Need a short, integrated vision video here. 
