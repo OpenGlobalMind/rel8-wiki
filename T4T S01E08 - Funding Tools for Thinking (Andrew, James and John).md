@@ -25,9 +25,9 @@ Host: [Jerry Michalski](https://www.jerrymichalski.com/)
 ## Video podcast  
 
 - On [Spotify](https://open.spotify.com/episode/56drQqKgSMqFtVz4kV7HPc)
-- On [YouTube]()
+- On [YouTube](https://www.youtube.com/watch?v=fiLX15NgdG0)
 
-Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](). 
+Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](https://docdrop.org/video/fiLX15NgdG0/). 
 
 ## Brain screen cap and link
 
