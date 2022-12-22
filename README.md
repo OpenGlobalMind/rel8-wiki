@@ -18,7 +18,7 @@ Instead, Rel8 seeks to figure out out what conditions, organizations and dynamic
 - Creating prototype code and use cases to illustrate what's possible and why
 
 ## [[What Are We Doing Now]]?
-## [[What Is Rel8]]?
+## [[Where Is Rel8]]?
 - ### [[Rel8 Goals]]: S, M, L
 - ### [[Rel8 Key Questions]] 
 - ### [[Rel8 Projects]]

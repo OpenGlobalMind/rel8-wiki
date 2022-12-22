@@ -1,10 +1,10 @@
-# What Is Rel8?
+# Where Is Rel8? Status as 2023 Begins
 
 ### The Situation
 
 - [[Tools for Thinking]] are hot
-- But they are all too often solo tools. Big missed opportunity. 
-- And the vendors and communities aren't cross-pollinating much.
+- But they are all too often solo tools. Big missed opportunity for collective intelligence. 
+- Plus, the vendors and communities aren't cross-pollinating much.
 
 ### Pragmatic Aspirations
 
@@ -17,7 +17,7 @@
 
 - [[Make Better Decisions Together]]
 - [[Level up Media]] 
-Figure out the next operating system for humanity
+- [[Discover Humanity's Next Operating System]]
 	- See Alan Kay, Doug Engelbart, Steve Jobs, JCS Licklider, Ivan Sutherland, Ted Nelson
 - [[Save Civilization]]
  
@@ -37,15 +37,6 @@ Figure out the next operating system for humanity
 	- Mitigate (neutralize?) the very effective misinformation campaigns afoot
 	- Help us face current crises and aim higher
 
-### Level Up Media
-
-- Today's Internet/Web are stuck in MSM-land (mainstream media metaphors)
-	- Early movies filmed theater
-	- Then filmmakers innovated, inventing the language of cinema (pan, zoom, jump cut, montage)
-	- The Web now emulates magazine articles, radio shows, TV and movies. Old media. 
-- We're at a moment where we can level up, transforming media
-- Leveling up media will help us [[Save Civilization]] together
-- The Copyright Industries will fight this
 
 ## What This Sector Needs Now
 
@@ -54,12 +45,13 @@ Figure out the next operating system for humanity
 	- Bootstrap: Use Tools for Thinking to illustrate this process
 	- - Tell stories. Narrate this journey
 	- Motivate toolsmiths to add storytelling features to all the tools
+	- Podcast: [[Tools for Thinking Podcast|Tools for Thinking]]
 - Convenings
 	- Host virtual events 
 		- [[Open Global Mind]] calls
 		- [[Free Jerry's Brain]] calls
 		- [[Fellowship of the Link]] calls 
-		- Neighbor communities 
+		- Cross-pollination with neighbor communities 
 	- Host real events
 	- Visit the [[Bonfires on the Horizon]], the many communities building our shared memory
 	- Be a neutral convener (technologically, not necessarily politically)

@@ -1,6 +1,6 @@
 # Work In Progress
 
-This wiki is a thinking space where we are working in the open to develop [[What Is Rel8|Rel8]].
+This wiki is a thinking space where we are working in the open to develop [[Where Is Rel8|Rel8]].
 
 Expect changes, perhaps big ones!
 
