@@ -15,3 +15,5 @@ Think of it as a layer of assertions and opinions above the Wikipedia.
 So how might some of us 
 
 Of course, we have a fledgling website devoted to [The Big Fungus](https://www.thebigfungus.org/). 
+
+A different metaphor for the same reasons: [[The Betterverse]].

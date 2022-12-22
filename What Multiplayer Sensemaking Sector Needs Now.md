@@ -52,5 +52,5 @@
 - Inspiring Many to Feed (Curate?) the Commons
 	- Developers to write toward the Commons
 	- Users to publish to the Commons
-- Play the role of Bell Labs or Xerox PARC in 21C — but decentralized
+- Play the role of Bell Labs or Xerox PARC in 21C — but decentralized and open
 	- Burbling pot of open innovations

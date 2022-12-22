@@ -1,6 +1,6 @@
 # Save Civilization
 
-- We're amnesic and paralyzed 
+- We're [amnesic](https://youtube.com/shorts/buzLBikvhNM?feature=share) and paralyzed 
 - Because we don't have a shared memory
 	- Which makes us easy to spin and manipulate
 	- We outsourced our memories to Google and Wikipedia; it was a mistake
