@@ -9,6 +9,7 @@ Deep multiplayer sensemaking likely involves this heterogeneous cooperation. In 
 - tool user to share much more often. 
 
 Related topics:
+
 - [[Seamful Design]]
 - [[Separate Applications from Data]]
 - [[Level up Media]]

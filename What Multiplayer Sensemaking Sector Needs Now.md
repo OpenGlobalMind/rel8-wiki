@@ -3,7 +3,7 @@
 - Vision
 	- Keep illustrating the big picture, the [[Highest Aspirations]] as well as the [[Pragmatic Aspirations]]
 	- Bootstrap: Use Tools for Thinking to illustrate this process
-	- - Tell stories. Narrate this journey
+	- Tell stories. Narrate this journey
 	- Motivate toolsmiths to add storytelling features to all the tools
 	- Podcast: [[Tools for Thinking Podcast|Tools for Thinking]]
 - Convenings
@@ -20,7 +20,7 @@
 		- Offer a "Starter" (to inoculate the emergent, mycelia's global brain)
 			- [[Jerry's Brain]]: 25 years, > 500,000 nodes, ~ 1mm links
 	- Foster divergent demos (to fight the tractor beams of the desktop metaphor and Microsoft Office)
-	- Model Idea Sex (friendlier than "idea combat" or debate)
+	- Model Idea Sex (friendlier than "idea combat," argumentation or debate)
 - Location
 	- Virtual: Sense of Place
 		- We know where the Web and Wikipedia are. Where is this shared memory?
@@ -43,12 +43,12 @@
 		- Dimensions for comparisons
 		- Major categories of protocols, etc. 
 		- Overlaps of spider diagrams
-		- The landscape [in my Brain](https://bra.in/5qeDMg) 
+		- That landscape, [in Jerry's Brain](https://bra.in/5qeDMg) 
 	- Technical specs to aim for
 		- Protocols and APIs (link)
 		- Point to existing orgs
 		- Wrangling the communities designing and hosting these
-- Funding flows for leveling up (Tiles)
+- Funding flows to build an ecosystem ([[Tiles]])
 - Inspiring Many to Feed (Curate?) the Commons
 	- Developers to write toward the Commons
 	- Users to publish to the Commons
