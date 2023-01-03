@@ -28,11 +28,23 @@ Let's take the production value down a notch and not worry about audience size, 
 	- Scheduling on Airtable? Other?
 	- Conversations on Discord? Other? 
 - Where is the common virtual ground? [The Big Fungus](https://www.thebigfungus.org/)? 
+- Instead of producing a podcast *for* people to get literate, how about involving them directly? 
 
 ### Questions to Ponder in the Podcast
 
 - What parts of the early visions have been fulfilled? Which have not materialized?
 - How can the early visions improve what we're building now? 
 - Why is computer history so white male? Where is the diversity?
+- How best to connect computer history to computer literacy?
+- How can computer history be made most available? 
+
+### Potential Guests
+
+- Dan'l Lewin, director of the Computer History Museum
+- Eric Rangell, who has been experimenting with Ted Nelson's ZigZag
+- Eric Eugene Kim, who worked with Engelbart for years
+- Adele Goldberg, creator of Smalltalk
+- Tech-historian bloggers and podcasters
+- Chris Aldrich, who knows this history well 
 - 
 
