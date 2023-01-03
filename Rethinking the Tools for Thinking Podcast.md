@@ -14,9 +14,25 @@ Have multiple hosts, pursuing multiple threads.
 
 Tools for Thinking ought to use Tools for Thinking! A lot! So let's.
 
-In fact, let's leave behind wave after wave of useful materials, starting with the [visionary documents](https://bra.in/2pxbo6) that described the potential that computers offered us. 
+In fact, let's leave behind layer after layer of useful materials, building atop the [visionary documents](https://bra.in/2pxbo6) that described the potential that computers offered us. 
 
 ### Simplify the Format
 
-Let's take the production value down a notch and not worry about audience size, but instead about 
+Let's take the production value down a notch and not worry about audience size, but instead about utility and accessibility.
+
+### Questions to Answer for the Podcast
+
+- What tools do we want to use to podcast? Other resources? 
+- Who is interested in participating? 
+- How should we coordinate?
+	- Scheduling on Airtable? Other?
+	- Conversations on Discord? Other? 
+- Where is the common virtual ground? [The Big Fungus](https://www.thebigfungus.org/)? 
+
+### Questions to Ponder in the Podcast
+
+- What parts of the early visions have been fulfilled? Which have not materialized?
+- How can the early visions improve what we're building now? 
+- Why is computer history so white male? Where is the diversity?
+- 
 
