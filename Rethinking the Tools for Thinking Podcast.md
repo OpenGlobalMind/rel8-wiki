@@ -1,6 +1,6 @@
 # Rethinking the Tools for Thinking Podcast
 
-We've wrapped Season One of the [[Tools for Thinking Podcast]].
+We've wrapped Season One of the [[Tools for Thinking Podcast]]. This page is to design [[T4T Season Two]]. 
 
 We got some enthusiastic responses from individuals, but we didn't light the sector on fire, nor did we build a very big audience (which may not be a thing we're aiming for). 
 
@@ -24,11 +24,18 @@ Let's take the production value down a notch and not worry about audience size, 
 
 - What tools do we want to use to podcast? Other resources? 
 - Who is interested in participating? 
+	- Jess Martin?
+	- Maggie Appleton?
+	- John Underkoffler? 
 - How should we coordinate?
 	- Scheduling on Airtable? Other?
 	- Conversations on Discord? Other? 
 - Where is the common virtual ground? [The Big Fungus](https://www.thebigfungus.org/)? 
 - Instead of producing a podcast *for* people to get literate, how about involving them directly? 
+- What computer literacy orgs might be interested?
+- What templates/structures do we need so the podcast episodes build well?
+- Keep "Tools for Thinking"? Rename it HyperTalk? Something else?
+- Where does the main entity live? Who hosts it? 
 
 ### Questions to Ponder in the Podcast
 
@@ -37,6 +44,7 @@ Let's take the production value down a notch and not worry about audience size, 
 - Why is computer history so white male? Where is the diversity?
 - How best to connect computer history to computer literacy?
 - How can computer history be made most available? 
+- What is the curriculum for computer history? In what sequence should people tackle it?
 
 ### Potential Guests
 
