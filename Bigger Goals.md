@@ -5,7 +5,7 @@
 1. [[Externalize My Writings]]
 2. [[Rethinking the Tools for Thinking Podcast |Redesign the Tools for Thinking Podcast]]
 3. [[SenseDoing|SenseDo One Issue in Depth]]
-4. Upload Subset of my Brain to Several T4T Platforms ([[Inoculate the Big Fungus]])
+4. Upload Subset of my Brain to Several T4T Platforms (Inoculate [[The Big Fungus]])
 5. [[Convene a Virtual T4T Event]] (Hoedown?)
 6. [[Co-Write a NeoBook]] (or three)
 7. [[Model Being a Cyborg/Centaur]]
