@@ -9,10 +9,10 @@
 
 1. [[Storytelling of What Works]]
 2. [[Shared Notes Across Six Tools]]
-3. [[Present from a NeoDeck]]
-4. [[Rethinking the Tools for Thinking Podcast |Redesign the Tools for Thinking Podcast]]
-5. [[SenseDoing|SenseDo One Issue in Depth]]
-6. Upload Subset of my Brain to Several T4T Platforms (Inoculate [[The Big Fungus]])
+3. [[Rethinking the Tools for Thinking Podcast |Redesign the Tools for Thinking Podcast]]
+4. [[Present from a NeoDeck]]
+5. [[SenseDo One Issue in Depth]]
+6. Upload Subset of my Brain to Several T4T Platforms ([[Inoculate The Big Fungus]])
 7. Convene a [[Virtual T4T Event]] (Hoedown?)
 8. [[Externalize My Writings]]
 9. [[Co-Write a NeoBook]] (or three)
@@ -26,7 +26,7 @@
 - Ease of execution
 - Usefulness for Muggles
 - Fit with mission
-- Interest (pull)
+- Interest (pull, from curiosity to passion)
 - Availability of funding
 - Public relevance, timeliness
 - Danger?
