@@ -1,14 +1,20 @@
 # Rethinking the Tools for Thinking Podcast
 
-We've wrapped Season One of the [[Tools for Thinking Podcast]]. This page is to design [[T4T Season Two]]. 
+We're wrapping Season One of the [[Tools for Thinking Podcast]]. This page is to design [[T4T Season Two]]. 
 
 We got some enthusiastic responses from individuals, but we didn't light the sector on fire, nor did we build a very big audience (which may not be a thing we're aiming for). 
 
-How might we make it better? Here are some thoughts. 
+We have an opportunity to make it better. Here are some thoughts. 
 
-### Share the Hosting
+## Build a Hive Mind (vs a single podcast)
 
-Have multiple hosts, pursuing multiple threads. 
+### Have Multiple Podcasts and Hosts
+
+We have one existing podcast, [[Tools for Thinking Podcast|Tools for Thinking]], which we can continue producing. That podcast could have multiple hosts, instead of just one. 
+
+We also have ideas for other podcasts with different focal areas. For example, a HyperTalk podcast could focus on the history of computing. 
+
+The idea is to be flexible and creative hosting a community of podcasts with multiple hosts pursuing multiple quests, intersecting and sharing resources a lot. 
 
 ### Use the Tools
 
@@ -18,26 +24,38 @@ In fact, let's leave behind layer after layer of useful materials, building atop
 
 ### Simplify the Format
 
-Let's take the production value down a notch and not worry about audience size, but instead about utility and accessibility.
+Let's take the production value down a notch (from Riverside recording back to Zoom, with less editing) and not worry about audience size, but instead about utility and accessibility.
 
-### Questions to Answer for the Podcast
+### Podcast Design Questions
 
-- What tools do we want to use to podcast? Other resources? 
+- What tools do we want to use to record, edit and distribute the podcast? To post about it? Other resources? 
+- How should we coordinate?
+	- Scheduling on Airtable? Notion? Other?
+	- Conversations on Discord? Other? 
+- What roles can people adopt in this community? ([[Ways You Can Participate]])
 - Who is interested in participating? 
 	- Jess Martin?
 	- Maggie Appleton?
 	- John Underkoffler? 
-- How should we coordinate?
-	- Scheduling on Airtable? Other?
-	- Conversations on Discord? Other? 
-- Where is the common virtual ground? [The Big Fungus](https://www.thebigfungus.org/)? 
+- What organizations might be interested?
+	- The Internet Archive
+	- Hypothes.is
+	- [[Open Global Mind]]
+	- Computer History Museum
+	- What computer literacy orgs might be interested?
+- Where is the common virtual ground? [[The Big Fungus]]? [[The Betterverse]]?
+- Build diversity in from the start
 - Instead of producing a podcast *for* people to get literate, how about involving them directly? 
-- What computer literacy orgs might be interested?
 - What templates/structures do we need so the podcast episodes build well?
-- Keep "Tools for Thinking"? Rename it HyperTalk? Something else?
+- Keep "Tools for Thinking"? Rename it HyperTalk? Something else? (here's a [[T4T Venn Diagram]]?)
+	- [[HyperTalk]] (community? podcast? metalabel?)
+	- Tools for Thinking (T4T)
+	- [[Weaving the World]] (WtW)
+	- [[The Big Fungus]]
+	- others...
 - Where does the main entity live? Who hosts it? 
 
-### Questions to Ponder in the Podcast
+### Potential Podcast Episode Topics (for Notion)
 
 - What parts of the early visions have been fulfilled? Which have not materialized?
 - How can the early visions improve what we're building now? 
@@ -45,8 +63,11 @@ Let's take the production value down a notch and not worry about audience size, 
 - How best to connect computer history to computer literacy?
 - How can computer history be made most available? 
 - What is the curriculum for computer history? In what sequence should people tackle it?
+- How do we build a thriving ecosystem here, mixing businesses and the Commons?
+- What happens when startups fail?
+	- Analyze HyperCard
 
-### Potential Guests
+### Potential Podcast Guests (for Notion)
 
 - Dan'l Lewin, director of the Computer History Museum
 - Eric Rangell, who has been experimenting with Ted Nelson's ZigZag
@@ -54,5 +75,7 @@ Let's take the production value down a notch and not worry about audience size, 
 - Adele Goldberg, creator of Smalltalk
 - Tech-historian bloggers and podcasters
 - Chris Aldrich, who knows this history well 
+- David Vargas, SamePage
+- Sam Arbesman
 - 
 

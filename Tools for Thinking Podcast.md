@@ -23,6 +23,8 @@ We'll drop an episode a week, weaving what we learn and who we meet into this wi
 - [[T4T S01E11 - Maps and Creativity (Anne-Laure, Lorenzo)]]
 - [[T4T S01E12 - Public or Private Brains?]]
 - [[T4T S01E13 - AI and Consciousness]]
+- [[T4T S01E14- Digital Gardening.jpg]]
+- [[T4T S01E15 - Taming the Chaos]]
 
 
 [[Rethinking the Tools for Thinking Podcast]]

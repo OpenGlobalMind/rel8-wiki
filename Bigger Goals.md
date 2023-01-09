@@ -8,16 +8,17 @@
 ### Monthly Projects
 
 1. [[Storytelling of What Works]]
-12. [[Present from a NeoDeck]]
-3. [[Rethinking the Tools for Thinking Podcast |Redesign the Tools for Thinking Podcast]]
-4. [[SenseDoing|SenseDo One Issue in Depth]]
-5. Upload Subset of my Brain to Several T4T Platforms (Inoculate [[The Big Fungus]])
-6. [[Convene a Virtual T4T Event]] (Hoedown?)
-7. [[Externalize My Writings]]
-8. [[Co-Write a NeoBook]] (or three)
-9. [[Model Being a Cyborg/Centaur]] (#futureofwork)
-10. [[Turbocharge Pattern Languages]]
-11. [[Prototype a Funding Mechanism]] (the Tiles-to-Mosaic Code-Bounty Flow)
+2. [[Shared Notes Across Six Tools]]
+3. [[Present from a NeoDeck]]
+4. [[Rethinking the Tools for Thinking Podcast |Redesign the Tools for Thinking Podcast]]
+5. [[SenseDoing|SenseDo One Issue in Depth]]
+6. Upload Subset of my Brain to Several T4T Platforms (Inoculate [[The Big Fungus]])
+7. Convene a [[Virtual T4T Event]] (Hoedown?)
+8. [[Externalize My Writings]]
+9. [[Co-Write a NeoBook]] (or three)
+10. [[Model Being a Cyborg/Centaur]] (#futureofwork)
+11. [[Turbocharge Pattern Languages]]
+12. [[Prototype a Funding Mechanism]] (the Tiles-to-Mosaic Code-Bounty Flow)
 13. [[Convene Three Neighbor Communities]]
 
 ### Criteria: 
