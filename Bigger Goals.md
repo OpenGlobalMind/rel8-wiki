@@ -1,9 +1,6 @@
 # Bigger Goals
 
-### Leveling up:
-
-- How we make decisions together
-- How media works, how we think about it 
+[[Jerry Michalski|Jerry]] here. In the spirit of treating 2023 like the last year I get to do things on this planet (don't worry: no bad news received), this page lists the things I would like to do. 
 
 ### Monthly Projects
 
@@ -49,3 +46,8 @@
 - Pattern Languages (distilled wisdom)
 - Identity politics and cancel culture 
 - Self-Directed Education
+
+Overall goals of leveling up:
+
+- How we make decisions together
+- How media works, how we think about it 
