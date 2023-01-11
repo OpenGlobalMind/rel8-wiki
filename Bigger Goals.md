@@ -1,6 +1,6 @@
 # Bigger Goals
 
-[[Jerry Michalski|Jerry]] here. In the spirit of treating 2023 like the last year I get to do things on this planet (don't worry: no bad news received), this page lists the things I would like to do. 
+[[Jerry Michalski|Jerry]] here. In the spirit of treating 2023 like the last year I get to do things on this planet (don't worry: no bad news received), this page lists the things I would like to do, in response to [[What Multiplayer Sensemaking Needs Now]]. 
 
 ### Monthly Projects
 
