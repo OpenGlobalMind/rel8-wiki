@@ -1,6 +1,6 @@
 # Shorts to Revitalize Cities
 
-This is part of [[Storytelling of What Works]], which is based on the idea that [[Storytelling + Relationships + Resources = Lasting Change]].
+[[Revitalizing Cities]] is part of [[Storytelling of What Works]], which is based on the idea that [[Storytelling + Relationships + Resources = Lasting Change]].
 
 This Shorts [playlist is here](); the individual videos are:
 

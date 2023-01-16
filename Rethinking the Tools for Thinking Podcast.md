@@ -1,8 +1,10 @@
 # Rethinking the Tools for Thinking Podcast
 
+*To build and nurture a community of practice around tools for thinking, as well as make good thinking more available in the world.*
+
 We're wrapping Season One of the [[Tools for Thinking Podcast]]. This page is to design [[T4T Season Two]]. 
 
-We got some enthusiastic responses from individuals, but we didn't light the sector on fire, nor did we build a very big audience (which may not be a thing we're aiming for). 
+Season One got some enthusiastic responses from individuals, but we didn't light the sector on fire, nor did we build a very big audience (which may not be a thing we're aiming for). 
 
 We have an opportunity to make it better. Here are some thoughts. 
 

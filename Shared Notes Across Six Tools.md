@@ -1,5 +1,7 @@
 # Shared Notes Across Six Tools
 
+*To prototype note sharing across software applications, improving interoperability in order to build a shared memory.* 
+
 Some [[Tools for Thinking]] are designed for multiplayer collaboration, but not the majority of them. 
 
 Realistically, mappers and notetakers will have different preferences and workflows, and will gravitate to different tools and platforms. 

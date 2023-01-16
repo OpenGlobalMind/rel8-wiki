@@ -1,5 +1,7 @@
 # Prototype a Funding Mechanism
 
+*To fund software and data that will build a great shared memory.*
+
 Building [[The Big Fungus]] in the Commons will require open-source code that solves myriad issues. 
 
 We envision a means of defining what code modules to build by having projects design [[Mosaics]] that describe their low-resolution futures, composed of [[Tiles]] that are code modules. 

@@ -1,6 +1,6 @@
 # Bigger Goals
 
-[[Jerry Michalski|Jerry]] here. In the spirit of treating 2023 like the last year I get to do things on this planet (don't worry: no bad news received), this page lists the things I would like to do, in response to [[What Multiplayer Sensemaking Needs Now]]. 
+[[Jerry Michalski|Jerry]] here. In the spirit of treating 2023 like the last year I get to do things on this planet (don't worry: no bad news received), this page lists the things I will do this year, motivated by [[What Multiplayer Sensemaking Needs Now]]. 
 
 ### Monthly Projects
 
@@ -38,7 +38,7 @@
 ### Potential focal areas
 
 - Design from Trust 
-- Revitalizing Towns
+- [[Revitalizing Cities]]
 - Regenerative Agriculture
 - Political debate
 - Credible pandemic response 

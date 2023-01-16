@@ -1,5 +1,7 @@
 # SenseDo One Issue in Depth
 
+*To explore what sensemaking looks like, in pages, maps and drawings, as well as how the sensemaking process itself works.*
+
 [[Open Global Mind]] focuses on [[multiplayer sensemaking]]. We've done a lot of talking, some collaborating and some coding, but some participants are (rightly) impatient to get more done. So we coined [[SenseDoing]]. 
 
 This project is to SenseDo one topic, in depth, adding it to [[The Big Fungus]].

@@ -1,5 +1,7 @@
 # Turbocharge Pattern Languages
 
+*To make existing pattern languages more accessible, useable and useful.* 
+
 This is a [[Rel8 Projects|Rel8 Project]].
 
 [[Pattern Languages]] are community projects that make distilled wisdom more accessible. We are big fans of several existing Pattern Languages, including: 
