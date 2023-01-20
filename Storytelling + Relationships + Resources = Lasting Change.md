@@ -12,7 +12,7 @@ Their vocabulary of possibilities might be greatly increased if they could quick
 
 ### Relationships
 
-Trying new things by yourself is daunting. Few people really try. Key to trying new things is having a trusted relationship with somebody who takes you by the hand to try the new thing. The best such person is someone who is very similar to you and has a lot of your trust. We don't easily take advice from people who are really different from us.
+Trying new things by yourself is daunting. Few people really try. Key to trying new things is having a trusted relationship with somebody who **takes you by the hand** to try the new thing. The best such person is someone who is very similar to you and has a lot of your trust. We don't easily take advice from people who are really different from us.
 
 ### Resources
 

@@ -1,8 +1,8 @@
 # Model Being a Cyborg/Centaur
 
-*To explore publicly what it's like to be interdependent with software, and data.*
+*To explore publicly what it's like to be productively interdependent with software and data.*
 
-Technology is getting extremely powerful. It is likely to [enhance or replace](https://bra.in/4pxXKp) us. Which way that goes depends in part how we design and implement it. 
+Technology is getting extremely powerful. We can use it to [enhance or replace](https://bra.in/4pxXKp) us. Which way that goes depends in part how we design and implement it. 
 
 A viable strategy in this future is to become a "Cyborg" or "Centaur," which means half person, half... er, animal or borg or AI. 
 

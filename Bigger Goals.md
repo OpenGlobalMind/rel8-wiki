@@ -9,19 +9,19 @@
 3. [[Rethinking the Tools for Thinking Podcast |Redesign the Tools for Thinking Podcast]]
 4. [[Present from a NeoDeck]]
 5. [[SenseDo One Issue in Depth]]
-6. Upload Subset of my Brain to Several T4T Platforms ([[Inoculate The Big Fungus]])
+6. [[Inoculate The Big Fungus]] (Upload Subset of [[Jerry's Brain]] to Several T4T Platforms)
 7. Convene a [[Virtual T4T Event]] (Hoedown?)
 8. [[Externalize My Writings]]
 9. [[Co-Write a NeoBook]] (or three)
 10. [[Model Being a Cyborg/Centaur]] (#futureofwork)
 11. [[Turbocharge Pattern Languages]]
 12. [[Prototype a Funding Mechanism]] (the Tiles-to-Mosaic Code-Bounty Flow)
-13. [[Convene Three Neighbor Communities]]
+13. [[Convene Six Neighbor Communities]]
 
-### Criteria: 
+### Criteria for Goal Definition and Sequencing: 
 
 - Ease of execution
-- Usefulness for Muggles
+- Usefulness for [[Muggles]]
 - Fit with mission
 - Interest (pull, from curiosity to passion)
 - Availability of funding
@@ -31,21 +31,25 @@
 
 ### Considerations: 
 
+- These goals are all very intertwingled. See [[Rel8 Bigger Goals Map]]
 - Just making a dent matters
 - The bigger pattern matters a lot
-- Getting many balls rolling, attracting communities
+- This list is plastic. Feedback will make it more effective.
+- Movement building: getting many balls rolling, attracting communities
 
-### Potential focal areas
+### Potential focal areas (especially for #5, SenseDoing)
 
 - Design from Trust 
 - [[Revitalizing Cities]]
 - Regenerative Agriculture
-- Political debate
-- Credible pandemic response 
-- History of computing (T4T Season Two)
+- Productive Political Debate
+- How Would a Wise Community Handle a Pandemic like Covid?
+- History of Computing (T4T Season Two)
 - Pattern Languages (distilled wisdom)
-- Identity politics and cancel culture 
+- Identity Politics and Cancel Culture 
 - Self-Directed Education
+- Why Share?
+- How Might We End Wars Well?
 
 Overall goals of leveling up:
 
