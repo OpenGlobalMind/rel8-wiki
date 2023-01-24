@@ -7,5 +7,8 @@ This Shorts [playlist is here](); the individual videos (with added resources) a
 - [[Build an edible landscape!]]
 - [[Pretend it exists!]]
 - [[Curitiba's rebirth]]
+- [[Get Locals Talking!]]
+- [[Use Pattern Languages!]]
+- [[Pedestrians Over Cars!]]
 
 Each Short is woven into its context in [[Jerry's Brain]], [here](https://bra.in/9qaErm).
