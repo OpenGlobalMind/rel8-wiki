@@ -2,18 +2,26 @@
 
 Why a Big Fungus? 
 
-It's a rich, evocative metaphor about symbiosis and collaboration in nature, which fits our mission at Rel8.
+Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration in nature, which fit our mission at Rel8 to create a shared, interconnected memory for humans in multiple ways, including:
 
-Leaf-cutter ants are also know as farmer ants, because they farm a fungus. That fungus metabolizes leaf matter, which the ants collect from the forest, then mulch up with some ant spit, and feed to the fungus. In return, the fungus creates [Gongylidia](https://en.wikipedia.org/wiki/Gongylidia) and oozes nectar, all of which feeds the ant colony. 
+- [[Mycelia in the Wood Wide Web]]
+	- Mycelia Exchange Minerals for Sugars
+- [[Leaf-Cutter Ants Can't Digest Leaves]]. So Why Are They Taking Leaves to Their Nests?
+- [[Mushrooms Externalize Their Digestion]]
+- [[Fungi are the Principal Decomposers in Ecological Systems]]
+- [[Mushrooms Are the Fruiting Bodies of Mycelium]]
+- [[Hyphae Connect]]
+- [[The Maitake's Peculiar Ecosystem]]
+- [[Mushrooms for Bioremediation]]
+- [[Magic Mushrooms]]
+- [[Data as Healthy Soil]]
 
-Happy fungus, happy hive. 
-
-Similarly, many humans are trying to make sense of the world by taking notes, enhancing those notes, and exploring shared notetaking. 
-
-Think of it as a layer of assertions and opinions above the Wikipedia. 
+Think of The Big Fungus as a layer of assertions and opinions above the Wikipedia, part of [[Data Is the New Soil]]. 
 
 So how might some of us 
 
 Of course, we have a fledgling website devoted to [The Big Fungus](https://www.thebigfungus.org/). 
 
-A different metaphor for the same reasons: [[The Betterverse]].
+A different metaphor for similar reasons: [[The Betterverse]].
+
+Disclaimer: I am not a biologist or mycologist. All errors here are my misinterpretations; all corrections eagerly accepted.
