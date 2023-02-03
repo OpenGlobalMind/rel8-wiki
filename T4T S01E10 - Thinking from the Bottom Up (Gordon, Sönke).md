@@ -22,11 +22,11 @@ Host: [Jerry Michalski](http://www.jerrymichalski.com/)
 [![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473c43cd78d77b7f847fb3_Anchor_logo.svg)](https://anchor.fm/betaworks/episodes/Generative-Artists-e1qu3hh/a-a8sqdta)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161d50a860bd5f8bf0e_Amazon_Music_logo.svg)](https://music.amazon.com/podcasts/12a72801-ad1e-412b-82cf-dd242e96b1d4/episodes/22578396-40f4-4bc1-a90e-925c4960343e/tools-for-thinking-by-betaworks-generative-art-ists)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161d50a86d605f8bf0f_itunes_podcasts%20logo.svg)](https://podcasts.apple.com/us/podcast/generative-art-ists/id1648557332?i=1000586761894)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161a69713eddcfa9885_Spotify%20logo.svg)](https://open.spotify.com/episode/4Qmk6EjBzNguMIfX05tAIl?si=SzKxKq7dQ1CMiYCH6IRo5g)
 
 ## Video podcast  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FP3FsuujC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - On [Spotify](https://open.spotify.com/episode/2Nn1v8GGXhuh3Znx7ni0Su)
-- On [YouTube]()
+- On [YouTube](https://www.youtube.com/watch?v=FP3FsuujC44)
 
-Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](https://docdrop.org/video/aQNylMqGNBM/). 
+Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](https://docdrop.org/video/FP3FsuujC44/). 
 
 ## Brain screen cap and link
 

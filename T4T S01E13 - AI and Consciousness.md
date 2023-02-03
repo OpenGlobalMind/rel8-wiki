@@ -25,11 +25,11 @@ Host: [Jerry Michalski](http://www.jerrymichalski.com/)
 ![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473c43cd78d77b7f847fb3_Anchor_logo.svg)](https://anchor.fm/betaworks/episodes/AI-and-consciousness---James-and-Mia-in-conversation-e1sfjbr/a-a92pnou)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161d50a860bd5f8bf0e_Amazon_Music_logo.svg)](https://music.amazon.com/podcasts/12a72801-ad1e-412b-82cf-dd242e96b1d4/episodes/5c349e36-a3ec-472b-8396-751a3dca744c/tools-for-thinking-by-betaworks-ai-and-consciousness---james-and-mia-in-conversation)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161d50a86d605f8bf0f_itunes_podcasts%20logo.svg)](https://podcasts.apple.com/us/podcast/ai-and-consciousness-james-and-mia-in-conversation/id1648557332?i=1000590661730)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161a69713eddcfa9885_Spotify%20logo.svg)](https://open.spotify.com/episode/3NCpRgTqoJDzPBVUz2rOhn?si=tl_lpZOrRIio1ryO-VvmRg)
 
 ## Video podcast  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UmMHYAAhHnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - On [Spotify](https://open.spotify.com/episode/3NCpRgTqoJDzPBVUz2rOhn)
-- On [YouTube]()
+- On [YouTube](https://www.youtube.com/watch?v=UmMHYAAhHnM)
 
-Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](). 
+Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](https://docdrop.org/video/UmMHYAAhHnM/). 
 
 ## Brain screen cap and link
 

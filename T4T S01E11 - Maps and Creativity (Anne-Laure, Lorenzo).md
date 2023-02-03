@@ -22,11 +22,11 @@ Host: [Jerry Michalski](http://www.jerrymichalski.com/)
 [![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473c43cd78d77b7f847fb3_Anchor_logo.svg)](https://anchor.fm/betaworks/episodes/Maps-and-Creativity-e1rm3g8/a-a90825m)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161d50a860bd5f8bf0e_Amazon_Music_logo.svg)](https://music.amazon.com/podcasts/12a72801-ad1e-412b-82cf-dd242e96b1d4/episodes/adef73a1-29cb-4cc2-ad10-885d0c5f7535/tools-for-thinking-by-betaworks-maps-and-creativity)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161d50a86d605f8bf0f_itunes_podcasts%20logo.svg)](https://podcasts.apple.com/us/podcast/maps-and-creativity/id1648557332?i=1000588588191)[![](https://uploads-ssl.webflow.com/6022fac80367ca7c9121c178/63473161a69713eddcfa9885_Spotify%20logo.svg)](https://open.spotify.com/episode/0LmnSebCaBtaQPt7E753w4?si=c3cb20e6618d4e50)
 
 ## Video podcast  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Z9bILKUFgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 - On [Spotify](https://open.spotify.com/episode/0LmnSebCaBtaQPt7E753w4)
-- On [YouTube]()
+- On [YouTube](https://www.youtube.com/watch?v=0Z9bILKUFgk)
 
-Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](https://docdrop.org/video/aQNylMqGNBM/). 
+Even better: the video, synced to a searchable transcript, all ready for conversation on [Hypothes.is](https://hypothes.is/), is [here](https://docdrop.org/video/0Z9bILKUFgk/). 
 
 ## Brain screen cap and link
 

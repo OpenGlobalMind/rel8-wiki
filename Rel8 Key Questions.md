@@ -10,4 +10,4 @@
 - What Is the Simplest Way to Spark a Rel8 Movement?
 	- How to Motivate Companies and Individuals to Feed the Fungus?
 - What Roles Should Machine Intelligence Play in OGM and Rel8?
-- Where Is the Fungus?
+- Where Is [[The Big Fungus]]?
