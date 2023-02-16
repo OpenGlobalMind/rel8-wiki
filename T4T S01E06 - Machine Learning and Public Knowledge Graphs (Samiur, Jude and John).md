@@ -28,11 +28,11 @@ Host: [Wiz](https://twitter.com/WizLikeWizard) @ [Spacecadet Ventures](https://s
 
 ## Brain screen cap and link
 
+![[T4T S01E06- Machine Learning and Public Knowledge Graphs.jpg]]
 https://bra.in/8qaEWm  <-- follow this link to browse this map
 
 ## Links mentioned
 
-- 
 - [Tools for Thinking Podcast](https://bra.in/2vGNna) (2022 T4T, TfT)
 
 ## Others' notes

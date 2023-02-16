@@ -6,14 +6,14 @@ These show notes are in Markdown, on Github, [here](https://github.com/OpenGloba
 
 ## Cover art
 
-Here's the Stable Diffusion-generated cover image for this episode, from the prompt "tktk:"
+Here's the Stable Diffusion-generated cover image for this episode, by @fpokenny ([fpokenny.com](fpokenny.com)), from the prompt "Atoms Light Trails Encased in Boc:"
 
-
+![[1 kenny-TamingTheChaos1.png]]
 
 ## Guests
 
-- William Cheng and Justin Cranshaw, co-founders of Maestro AI
-- Jordan Crook of TechCrunch and betaworks
+- [William Cheng](https://www.linkedin.com/in/willkcheng/) and [Justin Cranshaw](https://www.linkedin.com/in/justin-cranshaw-81153357/), co-founders of [Maestro AI](https://www.getmaestro.ai/)
+- [Jordan Crook](https://www.linkedin.com/in/jordanrcrook/) of TechCrunch and [betaworks](http://betaworks.com/)
 
 Host: [Jerry Michalski](http://www.jerrymichalski.com/)
 
@@ -30,103 +30,28 @@ Even better: the video, synced to a searchable transcript, all ready for convers
 
 ## Brain screen cap and link
 
-![[T4T S01E14- Digital Gardening.jpg]]
-https://bra.in/3pD4mn  <-- follow this link to browse this map
+![[T4T S01E15- Taming the Chaos.jpg]]
+https://bra.in/8vPwkJ  <-- follow this link to browse this map
 
 ## Links mentioned
 
-- Render Session 6 (Linus Lee): Leveraging ML for TfT
-	+ https://vimeo.com/740893906?embedded=true&source=video_title&owner=116593395
-ActivityPub (2018)
-	+ https://activitypub.rocks/
-	IndieWeb
-		+ https://indieweb.org/
-		bridgy (2016)
-			+ https://brid.gy/
-		Webmention
-			+ http://en.wikipedia.org/wiki/Webmention
-			# bridgy (2016)
-Antilibraries
-Change My View (2013 CMV)
-	+ https://www.reddit.com/r/changemyview/
-Code Refactoring
-	+ https://en.wikipedia.org/wiki/Code_refactoring
-Cognitive Scaffolding
-Conflict-free Replicated Data Types (2011 CRDTs)
-	+ https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type
-Digestibility (metaphoric)
-Digital Gardening
-	Maggie Appleton
-		+ https://www.linkedin.com/in/maggieappleton/
-End-User Development (EUD, or Programming EUP)
-	+ https://en.wikipedia.org/wiki/End-user_development
-Exploratory Search
-	Berrypicking and information foraging: Comparison of two theoretical frameworks for studying exploratory search (2017 pdf)
-		+ https://journals.sagepub.com/doi/10.1177/0165551517713168
-Graph Query Languages
-Hover Preview
-Imperfections
-	Wabi Sabi (transient, imperfect beauty)
-		+ http://www.c2.com/cgi/wiki?WabiSabi
-Joel Chan
-	+ https://www.linkedin.com/in/joel-chan-bb112316/
-	Claims Questions and Evidence
-Kialo (2012)
-	+ https://www.kialo.com/
-	Should churches pay tax?
-		+ https://www.kialo.com/should-churches-pay-tax-14255
-Law of the Few
-Microblogging (also Nanoblogging)
-My Default Brain Setting Is that Everything Is Public. This Is Unusual among Notetakers.
-Nugget (Chunk) Size
-Project Xanadu (1960)
-	+ http://www.xanadu.com
-Prompt Engineering (promptcraft)
-Scaling Synthesis
-	Rob Haisfield
-		+ https://www.linkedin.com/in/robhaisfield/
-		C- Hypertext enables communication with high information density
-			+ https://scalingsynthesis.com/C-Hypertext-enables-communication-with-high-information-density/
-		Search Behavior
-			+ https://scalingsynthesis.com/Search-Behavior/#:~:text=exploratory/
-Seedwiki
-	+ http://www.seedwiki.com
-Socialtext (2002)
-	+ http://www.socialtext.com/
-	- 
-	- <p>Peoplefluent bought Socialtext 5/2012</p>
-	- 
-StretchText (1967)
-	+ https://en.wikipedia.org/wiki/StretchText
-SurrealDB
-	+ https://surrealdb.com/
-	SurrealDB in 100 Seconds
-		+ https://www.youtube.com/watch?v=C7WFwgDRStM
-Tacit Knowledge
-	+ http://en.wikipedia.org/wiki/Tacit_knowledge
-Tana
-	+ https://www.tana.inc/
-	Bonfires on the T4T Horizon
-	Supertags
-The Size Limitation of Brain Thought Names Enforces Useful Succinctness
-Today’s Internet Is Stuck in Mainstream Media Metaphors
-	+ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
-Tools for Thinking Podcast (2022 T4T, TfT)
-	+ https://wiki.rel8.dev/tools_for_thinking_podcast
-Twemex
-Untappd (2010)
-	+ https://untappd.com/
-	Why Can’t Untappd Tell Me What Beers Are Available at John’s Market that Are on Mike Nelson’s Favorites List?
-Vicious Cycles
-	Virtuous Circles and Vicious Circles
-		+ https://en.wikipedia.org/wiki/Virtuous_circle_and_vicious_circle
-		Microsoft Office’s Virtuous Circle Was a Vicious Cycle for Lotus SmartSuite and WordPerfect
-Why Did Delicious Die? (it was so useful!)
-Why Haven't Wikis Taken over the World?
-Working Wikily
-	+ http://www.workingwikily.com/
-You have one minute to get the next quarter.
-
+- "[Absolute Power Corrupts Absolutely](https://bra.in/3qn7M9)"
+- [AlphaZero Illustrates Computer Creativity](https://bra.in/8j8NQk)
+- [Articles About AlphaGo](https://bra.in/4vBgYa)
+- [ChatGPT Alternatives](https://bra.in/9vmbdZ)
+- [Eliminating Repetitive Work](https://bra.in/5vPwkJ)
+- [Extreme Lifelogging](https://bra.in/8q5eWV)
+- [Frederick Winslow Taylor](http://en.wikipedia.org/wiki/Frederick_Winslow_Taylor) (1856-1915)
+- [Freestyle Chess](http://freestyle-chess.webs.com/)
+- [Human-in-the-Loop Systems](https://bra.in/2j4kWG)
+- [Match 2 - Google DeepMind Challenge Match: Lee Sedol vs AlphaGo](https://www.youtube.com/watch?v=l-GsfyVCBu0)
+	- [See the exact moment the world champion of Go realises DeepMind is vastly superior](http://uk.businessinsider.com/video-lee-se-dol-reaction-to-move-37-and-w102-vs-alphago-2016-3) [GIF]
+- [Opus](https://en.wikipedia.org/wiki/Opus_the_Penguin) (the penguin)
+- [VisiCalc](http://en.wikipedia.org/wiki/VisiCalc) (1979)
+- [We Are Now in the GPT World](https://bra.in/5jkBzZ) (late 2022)
+- [What if You Had a Perfect Virtual Assistant?](https://bra.in/6qn7M9)
+- [What’s Your Sweep](https://www.youtube.com/shorts/OHpw6TLk9gg)?
+- [You Can’t Stop Progress](https://bra.in/3jrZY5)
 - [Tools for Thinking Podcast](https://bra.in/2vGNna) (2022 T4T, TfT)
 
 ## Others' notes
