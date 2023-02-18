@@ -28,6 +28,7 @@ Host: [[Danika Laszuk]], founder of [EAT Works](https://www.eatworks.xyz/)
 
 ## Brain screen cap and link
 
+![[T4T S01E09- Generative Art.jpg]]
 https://bra.in/7qaEWm  <-- follow this link to browse this map
 
 ## Links mentioned
@@ -36,5 +37,5 @@ https://bra.in/7qaEWm  <-- follow this link to browse this map
 
 ## Others' notes
 
-[John Borthwick](https://www.linkedin.com/in/jborthwick/)'s Roam notes: 
+
 

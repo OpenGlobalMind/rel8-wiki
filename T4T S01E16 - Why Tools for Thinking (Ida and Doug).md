@@ -94,5 +94,5 @@ Watch (See) One Do One Teach One
 
 ## Others' notes
 
-[John Borthwick](https://www.linkedin.com/in/jborthwick/)'s Roam notes: 
+
 

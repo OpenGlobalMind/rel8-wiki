@@ -49,5 +49,5 @@ https://bra.in/4joXg5  <-- follow this link to browse this map
 
 ## Others' notes
 
-[John Borthwick](https://www.linkedin.com/in/jborthwick/)'s Roam notes: 
+
 

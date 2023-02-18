@@ -62,5 +62,5 @@ https://bra.in/8jgDK2  <-- follow this link to browse this map
 
 ## Others' notes
 
-[John Borthwick](https://www.linkedin.com/in/jborthwick/)'s Roam notes: 
+
 
