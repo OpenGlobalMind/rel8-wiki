@@ -17,9 +17,9 @@ Participants:
 - [[Jerry Michalski]], using [[Jerry's Brain]], starting at [this thought](https://bra.in/8jQEKE).
 - [[Flancian]], using his [[Agora]] (invited)
 - [[Pete Kaminski]], using [[Massive Wiki]] (invited)
-- [[Bentley Davis]] (invited)
+- [[Aram Zucker-Scharff]] (invited)
 - [[Maggie Appleton]] (invited)
-- [[Chris Aldrich]] (invited)
+- [[Chris Aldrich]], using Hypothesis and Obsidian (invited)
 
 **If you would like to join in the fun**, please either:
 
