@@ -11,7 +11,7 @@ Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration i
 - [[Fungi are the Principal Decomposers in Ecological Systems]]
 - [[Mushrooms Are the Fruiting Bodies of Mycelium]]
 - [[Hyphae Connect]]
-- [[Fungi Are Huge]]
+- [[Fungi Can Be Huge]]
 - [[The Maitake's Peculiar Ecosystem]]
 - [[Mushrooms for Bioremediation]]
 - [[Magic Mushrooms]]
@@ -19,7 +19,7 @@ Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration i
 
 Think of The Big Fungus as a layer of assertions and opinions above the Wikipedia, part of [[Data Is the New Soil]]. 
 
-So how might some of us 
+So how might some of us curate The Big Fungus together? 
 
 Of course, we have a fledgling website devoted to [The Big Fungus](https://www.thebigfungus.org/). 
 

@@ -18,6 +18,9 @@
 12. [[Prototype a Funding Mechanism]] (the Tiles-to-Mosaic Code-Bounty Flow)
 13. [[Convene Six Neighbor Communities]]
 
+![[Rel8 Mosaic Flow.jpeg]]
+The numbers map to the Bigger Goals.
+
 ### Criteria for Goal Definition and Sequencing: 
 
 - Ease of execution
