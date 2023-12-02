@@ -19,6 +19,8 @@
 13. [[Convene Six Neighbor Communities]]
 14. [[Brain + ChatGPT]]
 
+
+
 ![[Rel8 Mosaic Flow.jpeg]]
 The numbers map to the Bigger Goals.
 

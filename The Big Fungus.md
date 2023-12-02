@@ -12,14 +12,14 @@ Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration i
 - [[Mushrooms Are the Fruiting Bodies of Mycelium]]
 - [[Hyphae Connect]]
 - [[Fungi Can Be Huge]]
-- [[The Maitake's Peculiar Ecosystem]]
+- [[The Matsutake's Peculiar Ecosystem]]
 - [[Mushrooms for Bioremediation]]
 - [[Magic Mushrooms]]
 - [[Data as Healthy Soil]]
 
 Think of The Big Fungus as a layer of assertions and opinions above the Wikipedia, part of [[Data Is the New Soil]]. 
 
-So how might some of us curate The Big Fungus together? 
+So how might some of us curate The Big Fungus together? See [[The Fungus Manifesto]].
 
 Of course, we have a fledgling website devoted to [The Big Fungus](https://www.thebigfungus.org/). 
 
