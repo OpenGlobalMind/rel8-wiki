@@ -1,4 +1,4 @@
-# Level Up Media
+# Level Up Media (moved and improved)
 
 - Today's Internet/Web are [stuck in MSM-land](https://youtube.com/shorts/yT0r6D1h_iQ?feature=share) (mainstream media metaphors)
 	- Early movies filmed theater

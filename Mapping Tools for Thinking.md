@@ -1,2 +1,2 @@
-## Mapping Tools for Thinking
+# Mapping Tools for Thinking
 

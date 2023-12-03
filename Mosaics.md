@@ -1,4 +1,5 @@
 # Mosaics
+
 Mosaics are low-resolution visions of a project's goals, ambitions and methods. 
 
 They help individuals decide where to put their energy, and other projects figure out where the overlaps and resonances lie. 
